@@ -28,4 +28,4 @@ This project uses the following APIs to get the user's geolocation based on thei
 
 ## Credits
 
-This project was created based on the tutorial from [The Coding Tech](https://www.youtube.com/channel/UCv7VBLG8fKUgyRbAFzRvAJg).
+This project was created based on the tutorial from [Code With Tomi]https://www.youtube.com/@CodeWithTomi.
